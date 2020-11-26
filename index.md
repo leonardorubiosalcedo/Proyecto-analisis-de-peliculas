@@ -5,11 +5,17 @@ Este es el resultado de un proyecto de investigación que realizamos durante el 
 Dividimos el proyecto en las siguientes etapas:
 
 [1- Perfilamiento de datos]()
+
 [2- Web scraping]
+
 [3- Analisis de variables]
+
 [4- Nube de palabras]
+
 [5- Clasificacion de peliculas]
+
 [6- Extraccion datos twitter]
+
 [7- Analisis de sentimientos y distancias de palabras]
 
-['Example Rig Presets'](https://raw.githubusercontent.com/wiki/schroef/extra-image-list/images/extra-image-list.jpg?v26-09-2018)
+['Example Rig Presets'](src='https://raw.githubusercontent.com/wiki/schroef/extra-image-list/images/extra-image-list.jpg')
