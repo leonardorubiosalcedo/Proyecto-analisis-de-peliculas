@@ -12,6 +12,8 @@ Este es el resultado de un proyecto de investigación que realizamos durante el 
 
 - Las expresiones lingüísticas asociadas a un sentimiento positivo, negativo o neutro.
 
+El proyecto esta conformado por los siguientes modulos: 
+
 [1- Perfilamiento de datos](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/movies_profile.html)
 
 [2- Analisis de datos](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Analisis%20de%20datos.ipynb)
