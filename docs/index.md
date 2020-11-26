@@ -14,17 +14,17 @@ Este es el resultado de un proyecto de investigación que realizamos durante el 
 
 El proyecto esta conformado por los siguientes modulos: 
 
-[1- Perfilamiento de datos](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/movies_profile.html)
+[1- Perfilamiento de datos](https://nbviewer.jupyter.org/github/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/movies_profile.html)
 
-[2- Analisis de datos](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Analisis%20de%20datos.ipynb)
+[2- Analisis de datos](https://nbviewer.jupyter.org/github/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Analisis%20de%20datos.ipynb)
 
-[3- Web Scraping](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Proyecto%20Screping.ipynb)
+[3- Web Scraping](https://nbviewer.jupyter.org/github/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Proyecto%20Screping.ipynb)
 
-[4- Nubes de palabras](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Nube%20de%20palabras.ipynb)
+[4- Nubes de palabras](https://nbviewer.jupyter.org/github/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Nube%20de%20palabras.ipynb)
 
-[5- Clasificacion K-means](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Clasificacion%20de%20peliculas%20%20(3).ipynb)
+[5- Clasificacion K-means](https://nbviewer.jupyter.org/github/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Clasificacion%20de%20peliculas%20%20(3).ipynb)
  
-[6- Extraccion datos twitter](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Extraccion%20datos%20twitter.ipynb)
+[6- Extraccion datos twitter](https://nbviewer.jupyter.org/github/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Extraccion%20datos%20twitter.ipynb)
 
-[7- Analisis de sentimientos](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Analisis%20de%20sentimientos.ipynb)
+[7- Analisis de sentimientos](https://nbviewer.jupyter.org/github/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Analisis%20de%20sentimientos.ipynb)
 
