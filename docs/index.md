@@ -11,8 +11,10 @@ Este es el resultado de un proyecto de investigación que realizamos durante el 
 [3- Web Scraping](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Proyecto%20Screping.ipynb)
 
 [4- Nubes de palabras](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Nube%20de%20palabras.ipynb)
- 
-[5- Extraccion datos twitter](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Extraccion%20datos%20twitter.ipynb)
 
-[6- Analisis de sentimientos](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Analisis%20de%20sentimientos.ipynb)
+[5- Clasificacion K-means](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Clasificacion%20de%20peliculas%20%20(3).ipynb)
+ 
+[6- Extraccion datos twitter](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Extraccion%20datos%20twitter.ipynb)
+
+[7- Analisis de sentimientos](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Analisis%20de%20sentimientos.ipynb)
 
