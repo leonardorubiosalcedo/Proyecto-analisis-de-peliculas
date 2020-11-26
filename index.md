@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Amor u odio ¿Por qué nos gusta una película?: marcadores léxicos de éxito y fracaso a partir de twitter scrapping y machine learning
 
-You can use the [editor on GitHub](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Este es el resultado de un proyecto de investigación que realizamos durante el segundo semestre de 2020, en el curso de la especialización en analítica estratégica de datos de la Universidad Konrad Lorenz (Bogotá – Colombia). Nos propusimos aplicar técnicas de procesamiento de lenguaje natural para encontrar patrones de las personas sobre el gusto de las películas comerciales. Aplicaciones que esperan decantar resultados que indiquen: Cómo y por qué es útil aplicar técnicas de scraping y machine learning a fenómenos de consumo de masas y usos del lenguaje común. Comportamientos de consumo de cine de la población objeto de estudio. Factores que explican el éxito o el fracaso de una película. Las expresiones lingüísticas asociadas a un sentimiento positivo, negativo o neutro.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dividimos el proyecto en las siguientes etapas:
 
-### Markdown
+[1- Perfilamiento de datos]()
+[2- Web scraping]
+[3- Analisis de variables]
+[4- Nube de palabras]
+[5- Clasificacion de peliculas]
+[6- Extraccion datos twitter]
+[7- Analisis de sentimientos y distancias de palabras]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+['Example Rig Presets'](https://raw.githubusercontent.com/wiki/schroef/extra-image-list/images/extra-image-list.jpg?v26-09-2018)
