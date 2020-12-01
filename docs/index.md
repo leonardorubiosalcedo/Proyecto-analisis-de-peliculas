@@ -28,3 +28,10 @@ El proyecto esta conformado por los siguientes modulos:
 
 [7- Analisis de sentimientos](https://nbviewer.jupyter.org/github/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Analisis%20de%20sentimientos.ipynb)
 
+
+Bonus:
+
+[Peliculas por Closter](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Creador_de_peliculas_por_Closter.ipynb)
+
+[Peliculas por opiniones](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Creador_de_peliculas_por_Opinion%20(1).ipynb)
+
