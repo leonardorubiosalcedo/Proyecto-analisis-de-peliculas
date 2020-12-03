@@ -31,7 +31,7 @@ El proyecto esta conformado por los siguientes modulos:
 
 Bonus:
 
-[Peliculas por Closter](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Creador_de_peliculas_por_Closter.ipynb)
+[Peliculas por Closter](https://nbviewer.jupyter.org/github/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Creador_de_peliculas_por_Closter.ipynb)
 
-[Peliculas por opiniones](https://github.com/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Creador_de_peliculas_por_Opinion%20(1).ipynb)
+[Peliculas por opiniones](https://nbviewer.jupyter.org/github/leonardorubiosalcedo/Proyecto-analisis-de-peliculas/blob/main/Creador_de_peliculas_por_Opinion%20(1).ipynb)
 
